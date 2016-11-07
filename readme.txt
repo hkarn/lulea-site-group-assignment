@@ -10,3 +10,11 @@ Kommentarer:
 Sommar/Vinter bytet skulle nog varit bättre med javascript så att effekten stannar bättre än med :focus
 eftersom den här inlämningen var för CSS så ville vi dock ändå visa hur man kunde göra det med bara CSS.
 
+------
+
+Our first CSS assignment for first HTML, CSS and JS class. 
+
+By:
+Maximilan Sundberg
+Håkan Arnoldson
+
